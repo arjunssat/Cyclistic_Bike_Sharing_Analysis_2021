@@ -2,7 +2,7 @@
 <ul><li>Analyse how member rider's and casual rider's behave differently.</li> 
 <li>Support stakeholders in making data-driven decisions to develop campaigns or strategies aimed at converting casual riders into Cyclistic members.</li></ul><br>
 
-# Through analysinsg the data,we have discovered several interesting conclusions:
+# Through analysing the data,we have discovered several interesting conclusions:
 
 <ul>
     <li>The majority of rides are taken by casual riders.</li>
@@ -13,5 +13,14 @@
     <li>On average, casual riders spend 28 minutes per day riding bikes, while member riders spend 12 minutes per day.</li>
     <li>The ride duration for member riders remains relatively constant throughout the week, while for casual riders it increases on weekends.</li>
 
+</ul><br>
 
-</ul>
+# Recommendation's
+<ol>
+    <li><b>Weekend Pass</b>- The Weekend Pass is targeted to casual riders who mostly rent a bike during weekend. The Weekend Pass will have lower price point than the Annual Pass, but can only be used during Friday, Saturday, and Sunday.</li>
+    <br>
+    <li><b>Reward point campaign</b>- Give user reward points which accumulated by riding duration. Since casual riders ride duration is higher than current member riders, they will benefit more from this campaign. Offer them membership discount when they reach certain points to convert them into Cyclistic's member</li><br>
+    <li><b>Perform strategic campaign during summer</b>- Given the number of riders are at its annual peak in summer, we can do strategic campaign and advertising to reach more audience.</li><br>
+    
+
+</ol>
