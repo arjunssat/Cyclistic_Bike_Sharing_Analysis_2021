@@ -2,7 +2,7 @@
 <ul><li>Analyse how member rider's and casual rider's behave differently.</li> 
 <li>Support stakeholders in making data-driven decisions to develop campaigns or strategies aimed at converting casual riders into Cyclistic members.</li></ul><br>
 
-# Through analysing the data,we have discovered several interesting conclusions:
+## Through analysing the data,we have discovered several interesting conclusions:
 
 <ul>
     <li>The majority of rides are taken by casual riders.</li>
@@ -15,7 +15,7 @@
 
 </ul><br>
 
-# Recommendation's
+## Recommendation's
 <ol>
     <li><b>Weekend Pass</b>- The Weekend Pass is targeted to casual riders who mostly rent a bike during weekend. The Weekend Pass will have lower price point than the Annual Pass, but can only be used during Friday, Saturday, and Sunday.</li>
     <br>
